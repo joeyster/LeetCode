@@ -9,4 +9,4 @@ class Solution:
                 return [index, nums.index(targetSearch)]
             index += 1
             targetSearch = target
-        return []
+        return [] 

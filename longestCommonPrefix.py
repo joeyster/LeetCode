@@ -16,4 +16,4 @@ class Solution:
                     break
             if temp == result:
                 break
-        return result
+        return result 

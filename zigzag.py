@@ -9,7 +9,7 @@ class Solution:
         
         if numRows == 1:
             return s
-        
+         
         #get the dict ready
         for row in range(numRows):
             rowDict[row] =  ''

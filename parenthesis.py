@@ -3,7 +3,7 @@ class Solution:
         dictionary = {
             '[' : ']',
             '{' : '}',
-            '(' : ')'
+            '(' : ')' 
         }
         memo = []
         if len(s) == 0:

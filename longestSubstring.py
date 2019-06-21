@@ -24,7 +24,7 @@ class Solution:
                 else:
                     counterDict[x] = 1
                 
-        max = 0s
+        max = 0s 
         for key, value in lengthDict.items():
             if value > max:
                 max = value

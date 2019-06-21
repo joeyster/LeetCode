@@ -10,4 +10,4 @@ class Solution:
             before = first - 1
             return (temp[first]+temp[before]) / 2
         else:
-            return temp[len(temp) // 2]
+            return temp[len(temp) // 2] 
